@@ -120,7 +120,7 @@ const Footer: React.FC = () => {
                 <div className="text-gray-300 text-sm">
                   <p>railTRACK AG</p>
                   <p>Bahnhofstrasse 123</p>
-                  <p>6363 Obbürgen, Schweiz</p>
+                  <p>4000 Basel, Schweiz</p>
                 </div>
               </div>
               <div className="flex items-center space-x-3">
@@ -167,8 +167,8 @@ const Footer: React.FC = () => {
                   <span className="font-semibold">Als PDF speichern</span>
                 </button>
                 <a 
-                  href="../4_Präs_Abschluss_railTRACKAG_Philippe_Bohny.pptx" 
-                  download="4_Präs_Abschluss_railTRACKAG_Philippe_Bohny.pptx"
+                  href="../railTRACK_Praesentation.pptx" 
+                  download="railTRACK_Praesentation.pptx"
                   className="flex items-center justify-center space-x-2 bg-gradient-to-r from-orange-600 to-orange-700 hover:from-orange-700 hover:to-orange-800 text-white px-6 py-3 rounded-lg transition-all duration-300 shadow-lg hover:shadow-xl transform hover:scale-105"
                 >
                   <Download size={18} />

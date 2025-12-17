@@ -242,8 +242,8 @@ const NavigationSidebar: React.FC = () => {
         <div className="mt-8 pt-6 border-t border-blue-800">
           <div className="text-xs text-blue-300 space-y-1">
             <p>📊 Abschlusspräsentation AIBI</p>
-            <p>👤 Philippe Bohny</p>
-            <p>📅 17.12.2025</p>
+            <p>🏢 railTRACK AG</p>
+            <p>📅 Dezember 2025</p>
           </div>
         </div>
       </div>

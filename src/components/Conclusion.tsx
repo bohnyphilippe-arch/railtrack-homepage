@@ -296,8 +296,8 @@ const Conclusion: React.FC = () => {
         <div className="mt-16 text-center">
           <div className="inline-block bg-white/10 backdrop-blur-sm rounded-lg px-8 py-6 border border-white/20">
             <p className="text-blue-200 mb-2">📊 Abschlusspräsentation AIBI</p>
-            <p className="text-white font-semibold text-lg">Philippe Bohny</p>
-            <p className="text-blue-300 text-base mt-1">14. Dezember 2025</p>
+            <p className="text-white font-semibold text-lg">railTRACK AG</p>
+            <p className="text-blue-300 text-base mt-1">Dezember 2025</p>
           </div>
         </div>
       </div>
