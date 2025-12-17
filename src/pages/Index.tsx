@@ -18,8 +18,8 @@ const Index = () => {
       {/* Fixed Navigation Sidebar */}
       <NavigationSidebar />
       
-      {/* Main Content with left margin for sidebar */}
-      <main className="ml-80">
+      {/* Main Content with left margin for sidebar (only on desktop) */}
+      <main className="ml-0 lg:ml-80">
         {/* a5.1 - Einleitung */}
         <IntroductionSection />
         
